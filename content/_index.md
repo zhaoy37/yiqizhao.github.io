@@ -42,9 +42,17 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+  - block: skills
+    content:
+      title: Skills
+      text: ''
+      # Choose a user to display skills from (a folder name within `content/authors/`)
+      username: admin
+    design:
+      columns: '1'
   - block: experience
     content:
-      title: Work Experience
+      title: Experience
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -54,22 +62,27 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Grader of CS 4260
-          company: Vanderbilt University
+        - title: CEO
+          company: GenCoin
           company_url: ''
-          company_logo: ''
-          location: Nashville
-          date_start: '2022-08'
-          date_end: '2023-05'
-          description: I worked as the grader/TA of CS 4260 (Artificial Intelligence) at Vanderbilt University. Specifically, I graded students' homework and hold office hours on a regular basis to answer students' questions.
-        - title: Application Development Intern
-          company: ADP
+          company_logo: org-gc
+          location: California
+          date_start: '2021-01-01'
+          date_end: ''
+          description: |2-
+              Responsibilities include:
+
+              * Analysing
+              * Modelling
+              * Deploying
+        - title: Professor of Semiconductor Physics
+          company: University X
           company_url: ''
-          company_logo: ''
-          location: ''
-          date_start: '2022-06'
-          date_end: '2022-08'
-          description: I worked as an Application Development Intern within the Global Product & Tech (GPT) group at ADP. I developed an API for Notification Replay for the Autopay group using Spring Boot and MongoDB, etc.
+          company_logo: org-x
+          location: California
+          date_start: '2016-01-01'
+          date_end: '2020-12-31'
+          description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
   - block: accomplishments
@@ -201,21 +214,21 @@ sections:
     design:
       columns: '2'
       view: citation
-  # - block: collection
-  #   id: talks
-  #   content:
-  #     title: Recent & Upcoming Talks
-  #     filters:
-  #       folders:
-  #         - event
-  #   design:
-  #     columns: '2'
-  #     view: compact
-  # - block: tag_cloud
-  #   content:
-  #     title: Popular Topics
-  #   design:
-  #     columns: '2'
+  - block: collection
+    id: talks
+    content:
+      title: Recent & Upcoming Talks
+      filters:
+        folders:
+          - event
+    design:
+      columns: '2'
+      view: compact
+  - block: tag_cloud
+    content:
+      title: Popular Topics
+    design:
+      columns: '2'
   - block: contact
     id: contact
     content:
@@ -224,8 +237,8 @@ sections:
       text: |-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: yiqizhao@usc.edu
-      phone: 802 535 6417
+      email: test@example.org
+      phone: 888 888 88 88
       appointment_url: 'https://calendly.com'
       address:
         street: 450 Serra Mall
