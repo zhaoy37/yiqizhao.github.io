@@ -5,9 +5,9 @@ authors:
 - Ziyan An
 - Meiyi Ma
 - Taylor Johnson
-date: '2023-01-01'
-publishDate: '2023-11-05T23:58:21.405845Z'
+date: '2023-08-15'
 publication_types:
-- article-conference
+- working paper
 publication: '*arXiv preprint arXiv:2308.07890*'
+url_pdf: "https://arxiv.org/pdf/2308.07890.pdf"
 ---

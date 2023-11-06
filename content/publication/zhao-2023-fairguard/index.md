@@ -7,7 +7,8 @@ authors:
 - Xuqing Gao
 - Ayan Mukhopadhyay
 - Meiyi Ma
-publication_types: conference
+publication_types: 
+- conference
 publication: '8th ACM/IEEE Conference on Internet of Things Design and Implementation'
 url_pdf: "https://arxiv.org/pdf/2302.11137.pdf"
 ---
