@@ -78,7 +78,7 @@ sections:
           company_logo: org-x
           location: Roseland
           date_start: '2022-06-01'
-          date_end: '2022-8-01'
+          date_end: '2022-08-01'
           description: I worked as an Application Development Intern within the Global Product & Tech (GPT) group at ADP. I developed an API for Notification Replay for the Autopay group using Spring Boot and MongoDB, etc.
     design:
       columns: '2'
