@@ -99,7 +99,7 @@ sections:
           date_end: ''
           date_start: '2021-06-01'
           description: ''
-          icon: coursera
+          icon:
           organization: Vanderbilt Institute for Surgery and Engineering
           organization_url: https://www.vanderbilt.edu/vise/vise-summer-fellows/
           title: VISE Award (Scholarship for the VISE Summer Fellowship)
@@ -108,8 +108,8 @@ sections:
           date_end: ''
           date_start: '2023-08-01'
           description:
-          icon: edx
-          organization: edX
+          icon:
+          organization: Viterbi School of Engineering
           organization_url:
           title: Viterbi School of Engineering Fellowship
           url:
