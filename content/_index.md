@@ -54,7 +54,7 @@ sections:
       view: citation
   - block: experience
     content:
-      title: Experience
+      title: Work Experience
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -82,6 +82,15 @@ sections:
           description: I worked as an Application Development Intern within the Global Product & Tech (GPT) group at ADP. I developed an API for Notification Replay for the Autopay group using Spring Boot and MongoDB, etc.
     design:
       columns: '2'
+  - block: services
+    content:
+      title: Academic Services
+      subtitle:
+      text: Reviewer for HSCC RE 2024, ACC 2023, VMCAI 2024.
+    design:
+      # See Page Builder docs for all section customization options.
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '1'
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
