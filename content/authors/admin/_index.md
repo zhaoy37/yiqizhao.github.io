@@ -102,6 +102,6 @@ social:
 highlight_name: true
 ---
 
-Yiqi Zhao is a Doctoral Student for Computer Science at the University of Southern California. He works with Professor Jyo Deshmukh and Professor Lars Lindemann. His research interests include design, verification, and testing of learning-enabled Cyber-Physical Systems through formal methods and control theory. Before this, he was a student at Vanderbilt University, who majored in Computer Science and Mathematics (Applied Track) and minored in Electrical Engineering and Data Science. At Vanderbilt, he worked with Professor Meiyi Ma on smart city and specification-enhanced machine learning.
+Yiqi Zhao is a Doctoral Student for Computer Science at the University of Southern California. He works with <a href = "fake">Professor Jyo</a> Deshmukh and Professor Lars Lindemann. His research interests include design, verification, and testing of learning-enabled Cyber-Physical Systems through formal methods and control theory. Before this, he was a student at Vanderbilt University, who majored in Computer Science and Mathematics (Applied Track) and minored in Electrical Engineering and Data Science. At Vanderbilt, he worked with Professor Meiyi Ma on smart city and specification-enhanced machine learning.
 
 {style="text-align: justify;"}
