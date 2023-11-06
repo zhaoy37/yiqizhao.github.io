@@ -43,9 +43,9 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: collection
+    id: featured
     content:
       title: Recent Publications
-      id: featured
       filters:
         folders:
           - publication
@@ -54,9 +54,9 @@ sections:
       columns: '2'
       view: citation
   - block: experience
+    id: work
     content:
       title: Work Experience
-      id: work
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -85,9 +85,9 @@ sections:
     design:
       columns: '2'
   - block: markdown
+    id: services
     content:
       title: Academic Services
-      id: services
       subtitle:
       text: Reviewer for HSCC RE 2024, ACC 2023, VMCAI 2024.
     design:
@@ -95,10 +95,10 @@ sections:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
   - block: accomplishments
+    id: awards
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Awards'
-      id: awards
       subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
