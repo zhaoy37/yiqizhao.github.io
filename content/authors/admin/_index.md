@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yiqi Zhao (赵一淇)
+title: Yiqi Zhao
 
 # Name pronunciation (optional)
 name_pronunciation:
@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD Student
+role: PhD Student, Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -25,7 +25,7 @@ organizations:
     url: https://viterbischool.usc.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Doctoral Student for Computer Science at the University of Southern California. I work with Professor Jyo Deshmukh and Professor Lars Lindemann. My research interests include design, verification, and testing of learning-enabled Cyber-Physical Systems through formal methods and control theory. Before this, I was a student at Vanderbilt University, who majored in Computer Science and Mathematics (Applied Track) and minored in Electrical Engineering and Data Science. At Vanderbilt, I worked with Professor Meiyi Ma on smart city and specification-enhanced machine learning.
+bio: Yiqi (Nick) Zhao is a PhD Student for Computer Science at the University of Southern California.
 
 # Interests to show in About widget
 interests:
@@ -40,46 +40,6 @@ education:
       institution: Vanderbilt University
       year: 2023
 
-# Skills
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-# skills:
-#   - name: Technical
-#     items:
-#       - name: Python
-#         description: ''
-#         percent: 80
-#         icon: python
-#         icon_pack: fab
-#       - name: Data Science
-#         description: ''
-#         percent: 100
-#         icon: chart-line
-#         icon_pack: fas
-#       - name: SQL
-#         description: ''
-#         percent: 40
-#         icon: database
-#         icon_pack: fas
-#   - name: Hobbies
-#     color: '#eeac02'
-#     color_border: '#f0bf23'
-#     items:
-#       - name: Hiking
-#         description: ''
-#         percent: 60
-#         icon: person-hiking
-#         icon_pack: fas
-#       - name: Cats
-#         description: ''
-#         percent: 100
-#         icon: cat
-#         icon_pack: fas
-#       - name: Photography
-#         description: ''
-#         percent: 80
-#         icon: camera-retro
-#         icon_pack: fas
-
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -90,7 +50,7 @@ social:
     link: https://github.com/zhaoy37
   - icon: linkedin
     icon_pack: fab
-    link: www.linkedin.com/in/nick-yiqi-zhao-0449781b1
+    link: https://linkedin.com/in/nick-yiqi-zhao-0449781b1
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -102,6 +62,6 @@ social:
 highlight_name: true
 ---
 
-Yiqi (Nick) Zhao is a Doctoral Student for Computer Science at the University of Southern California. He works with <a href = "https://jdeshmukh.github.io/">Professor Jyo Deshmukh</a> and <a href = "https://sites.google.com/view/larslindemann/main-page">Professor Lars Lindemann</a>. His research interests include design, verification, and testing of learning-enabled Cyber-Physical Systems with formal methods and control theoretic approachs. Before this, he was a student at Vanderbilt University, who majored in Computer Science and Mathematics (Applied Track) and minored in Electrical Engineering and Data Science. At Vanderbilt, he worked with <a href = "https://meiyima.github.io/">Professor Meiyi Ma</a> on smart city and specification-enhanced machine learning.
+<b>Yiqi (Nick) Zhao</b> is a PhD Student for Computer Science at the University of Southern California. He works with <a href = "https://jdeshmukh.github.io/">Professor Jyo Deshmukh</a> and <a href = "https://sites.google.com/view/larslindemann/main-page">Professor Lars Lindemann</a>. His research interests include design, verification, and testing of learning-enabled Cyber-Physical Systems (CPS) with formal methods and control theoretic approachs. Before this, he was a student at Vanderbilt University, who majored in Computer Science and Mathematics (Applied Track) and minored in Electrical Engineering and Data Science. At Vanderbilt, he worked with <a href = "https://meiyima.github.io/">Professor Meiyi Ma</a> on smart city and specification-enhanced machine learning.
 
 {style="text-align: justify;"}
