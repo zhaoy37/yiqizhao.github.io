@@ -67,7 +67,7 @@ sections:
         - title: Grader of CS 4260 (Artificial Intelligence)
           company: Vanderbilt University
           company_url: ''
-          company_logo: org-v
+          company_logo: org-gc
           location: Nashville
           date_start: '2022-08-01'
           date_end: '2023-05-01'
@@ -75,7 +75,7 @@ sections:
         - title: Application Development Intern
           company: ADP
           company_url: ''
-          company_logo: org-adp
+          company_logo: org-x
           location: Roseland
           date_start: '2022-06-01'
           date_end: '2022-8-01'
