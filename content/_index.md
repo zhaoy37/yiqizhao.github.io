@@ -45,6 +45,7 @@ sections:
   - block: collection
     content:
       title: Recent Publications
+      id: featured
       filters:
         folders:
           - publication
@@ -55,6 +56,7 @@ sections:
   - block: experience
     content:
       title: Work Experience
+      id: work
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -85,6 +87,7 @@ sections:
   - block: markdown
     content:
       title: Academic Services
+      id: services
       subtitle:
       text: Reviewer for HSCC RE 2024, ACC 2023, VMCAI 2024.
     design:
@@ -95,6 +98,7 @@ sections:
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Awards'
+      id: awards
       subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006

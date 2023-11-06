@@ -16,8 +16,17 @@ main:
   # - name: Talks
   #   url: '#talks'
   #   weight: 40
-  - name: Publications
+  - name: Recent Publications
     url: '#featured'
+    weight: 50
+  - name: Work Experiences
+    url: '#work'
+    weight: 50
+  - name: Academic Services
+    url: '#services'
+    weight: 50
+  - name: Awards
+    url: '#awards'
     weight: 50
   - name: Contact
     url: '#contact'
