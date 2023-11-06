@@ -82,7 +82,7 @@ sections:
           description: I worked as an Application Development Intern within the Global Product & Tech (GPT) group at ADP. I developed an API for Notification Replay for the Autopay group using Spring Boot and MongoDB, etc.
     design:
       columns: '2'
-  - block: services
+  - block: markdown
     content:
       title: Academic Services
       subtitle:
