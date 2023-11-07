@@ -89,7 +89,7 @@ sections:
     content:
       title: Academic Services
       subtitle:
-      text: Reviewer for HSCC RE 2024, ACC 2024, VMCAI 2024.
+      text: Reviewer for HSCC 2024 (Repeatability Evaluation), ACC 2024, VMCAI 2024.
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
