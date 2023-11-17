@@ -2,7 +2,7 @@
 title: 'Fairguard: Harness Logic-based Fairness Rules in Smart Cities'
 date: '2023-02-22'
 authors:
-- Yiqi Zhao
+- admin
 - Ziyan An
 - Xuqing Gao
 - Ayan Mukhopadhyay
