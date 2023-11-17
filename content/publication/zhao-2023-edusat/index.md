@@ -1,10 +1,10 @@
 ---
 title: 'EduSAT: A Pedagogical Tool for Theory and Applications of Boolean Satisfiability'
 authors:
-- **Yiqi Zhao**
-- Ziyan An
-- Meiyi Ma
-- Taylor Johnson
+- "**Yiqi Zhao**"
+- "Ziyan An"
+- "Meiyi Ma"
+- "Taylor Johnson"
 date: '2023-08-15'
 publication_types:
 - working paper
