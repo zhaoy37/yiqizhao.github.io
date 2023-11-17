@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yiqi Zhao (赵一淇)
+title: Yiqi Zhao
 
 # Name pronunciation (optional)
 name_pronunciation:
