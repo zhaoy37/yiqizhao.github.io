@@ -16,16 +16,6 @@ abstract: Cyber-physical systems (CPS) designed in simulators behave differently
 summary: '*STL runtime verification algorithms robust to distribution shift*'
 featured: false
 
-# Summary. An optional shortened abstract.
-# 
-
-tags:
-- Predictive Runtime Verification
-- Stochastic System Verification
-- Signal Temporal Logic
-- Conformal Prediction
-featured: false
-
 links:
 #- name: Custom Link
 #  url: http://example.org
