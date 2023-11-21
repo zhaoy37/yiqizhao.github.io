@@ -51,8 +51,8 @@ sections:
           - publication
         exclude_featured: true
     design:
-      columns: '3'
-      view: card
+      columns: '2'
+      view: compact
   - block: experience
     id: work
     content:
