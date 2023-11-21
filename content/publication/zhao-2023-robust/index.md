@@ -19,7 +19,7 @@ tags:
 - Stochastic System Verification
 - Signal Temporal Logic
 - Conformal Prediction
-featured: true
+featured: false
 
 links:
 #- name: Custom Link
