@@ -20,7 +20,7 @@ links:
 #- name: Custom Link
 #  url: http://example.org
 url_pdf: "https://arxiv.org/pdf/2308.07890.pdf"
-url_code: ''
+url_code: 'https://github.com/zhaoy37/SAT_Solver'
 url_dataset: ''
 url_poster: ''
 url_project: ''
