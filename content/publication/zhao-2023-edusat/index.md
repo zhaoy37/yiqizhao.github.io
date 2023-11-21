@@ -11,31 +11,9 @@ publication_types:
 
 publication: '*arXiv preprint arXiv:2308.07890*'
 
-abstract: Boolean Satisfiability (SAT) and Satisfiability Modulo Theories (SMT) are widely used in automated verification, but there is a
-lack of interactive tools designed for educational purposes in this field.
-To address this gap, we present EduSAT, a pedagogical tool specifically developed to support learning and understanding of SAT and SMT
-solving. EduSAT offers implementations of key algorithms such as the
-Davis-Putnam-Logemann-Loveland (DPLL) algorithm and the Reduced
-Order Binary Decision Diagram (ROBDD) for SAT solving. Additionally,
-EduSAT provides solver abstractions for five NP-complete problems be-
-yond SAT and SMT. Users can benefit from EduSAT by experimenting,
-analyzing, and validating their understanding of SAT and SMT solving
-techniques. Our tool is accompanied by comprehensive documentation
-and tutorials, extensive testing, and practical features such as a natural
-language interface and SAT and SMT formula generators, which also
-serve as a valuable opportunity for learners to deepen their understand-
-ing. Our evaluation of EduSAT demonstrates its high accuracy, achieving
-100% correctness across all the implemented SAT and SMT solvers. We
-release EduSAT as a python package in .whl file, and the source can be
-identified at https://github.com/zhaoy37/SAT_Solver.
+abstract: Boolean Satisfiability (SAT) and Satisfiability Modulo Theories (SMT) are widely used in automated verification, but there is a lack of interactive tools designed for educational purposes in this field. To address this gap, we present EduSAT, a pedagogical tool specifically developed to support learning and understanding of SAT and SMT solving. EduSAT offers implementations of key algorithms such as the Davis-Putnam-Logemann-Loveland (DPLL) algorithm and the Reduced Order Binary Decision Diagram (ROBDD) for SAT solving. Additionally, EduSAT provides solver abstractions for five NP-complete problems beyond SAT and SMT. Users can benefit from EduSAT by experimenting, analyzing, and validating their understanding of SAT and SMT solving techniques. Our tool is accompanied by comprehensive documentation and tutorials, extensive testing, and practical features such as a natural language interface and SAT and SMT formula generators, which also serve as a valuable opportunity for learners to deepen their understanding. Our evaluation of EduSAT demonstrates its high accuracy, achieving 100% correctness across all the implemented SAT and SMT solvers. We release EduSAT as a python package in .whl file, and the source can be identified at https://github.com/zhaoy37/SAT_Solver.
 # Summary. An optional shortened abstract.
-summary: '*A pedagogical tool specifi-
-cally developed to support learning and understanding of SAT and SMT
-solving*'
-
-# Summary. An optional shortened abstract.
-# 
-
+summary: '*A pedagogical tool specifically developed to support learning and understanding of SAT and SMT solving*'
 featured: false
 
 links:
