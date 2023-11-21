@@ -54,9 +54,7 @@ image:
 <center>
 
 ![MKCT_workflow](featured.png)
-<small>We proposed a pedagogical tool specifi-
-cally developed to support learning and understanding of SAT and SMT
-solving</small>
+<small>Architecture of EduSAT</small>
 
 </center>
 
