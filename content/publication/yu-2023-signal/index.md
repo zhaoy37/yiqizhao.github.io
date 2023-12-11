@@ -52,6 +52,8 @@ image:
 
 
 <center>
-![MKCT_workflow](featured.jpg)
+
+![MKCT_workflow](featured.png)
 <small>The result of the temperature control of the first case study.</small>
+
 </center>
