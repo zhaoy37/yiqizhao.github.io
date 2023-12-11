@@ -7,7 +7,7 @@ authors:
 - Taylor Johnson
 date: '2023-08-15'
 publication_types:
-- working paper
+- preprint
 
 publication: '*arXiv preprint arXiv:2308.07890*'
 
