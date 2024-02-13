@@ -10,20 +10,7 @@ publication_types:
 - preprint
 publication: '*arXiv preprint arXiv:2402.07407*'
 
-abstract: Motivated by the advances in conformal prediction (CP), we propose conformal predictive
-programming (CPP), an approach to solve chance constrained optimization (CCO) problems,
-i.e., optimization problems with nonlinear constraint functions affected by arbitrary random
-parameters. CPP utilizes samples from these random parameters along with the quantile lemma
-– which is central to CP – to transform the CCO problem into a deterministic optimization
-problem. We then present two tractable reformulations of CPP by: (1) writing the quantile
-as a linear program along with its KKT conditions (CPP-KKT), and (2) using mixed integer
-programming (CPP-MIP). CPP comes with marginal probabilistic feasibility guarantees for
-the CCO problem that are conceptually different from existing approaches, e.g., the sample
-approximation and the scenario approach. While we explore algorithmic similarities with the
-sample approximation approach, we emphasize that the strength of CPP is that it can easily be
-extended to incorporate different variants of CP. To illustrate this, we present robust conformal
-predictive programming to deal with distribution shifts in the uncertain parameters of the CCO
-problem.
+abstract: Motivated by the advances in conformal prediction (CP), we propose conformal predictive programming (CPP), an approach to solve chance constrained optimization (CCO) problems, i.e., optimization problems with nonlinear constraint functions affected by arbitrary random parameters. CPP utilizes samples from these random parameters along with the quantile lemma – which is central to CP – to transform the CCO problem into a deterministic optimization problem. We then present two tractable reformulations of CPP by (1) writing the quantile as a linear program along with its KKT conditions (CPP-KKT), and (2) using mixed integer programming (CPP-MIP). CPP comes with marginal probabilistic feasibility guarantees for the CCO problem that are conceptually different from existing approaches, e.g., the sample approximation and the scenario approach. While we explore algorithmic similarities with the sample approximation approach, we emphasize that the strength of CPP is that it can easily be extended to incorporate different variants of CP. To illustrate this, we present robust conformal predictive programming to deal with distribution shifts in the uncertain parameters of the CCO problem.
 
 # Summary. An optional shortened abstract.
 summary: '*Using Conformal Prediction to Solve Chance Constrained Optimization Problems*'
