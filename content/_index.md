@@ -54,6 +54,7 @@ sections:
       columns: '1'
       view: compact
   - block: collection
+    id: recent
     content:
       title: Recent Publications
       text: |-
