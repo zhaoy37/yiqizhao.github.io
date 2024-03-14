@@ -36,9 +36,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
+    - course: PhD, Computer Science
+      institution: University of Southern California
+      year: 2023 - Now
     - course: BSc, magna cum laude, Honors in Computer Science
       institution: Vanderbilt University
-      year: 2023
+      year: 2020-2023
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -54,6 +57,9 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=yDTi2z8AAAAJ&hl=en
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Yiqi-Zhao-14
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
