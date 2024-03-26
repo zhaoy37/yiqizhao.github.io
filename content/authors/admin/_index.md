@@ -32,6 +32,7 @@ interests:
   - Formal Methods
   - Cyber Physical System
   - Systems and Control Theory
+  - Mathematical Optimization
 
 # Education to show in About widget
 education:
