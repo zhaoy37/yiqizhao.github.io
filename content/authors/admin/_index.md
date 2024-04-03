@@ -30,7 +30,7 @@ bio: Yiqi (Nick) Zhao is a PhD Student for Computer Science at the University of
 # Interests to show in About widget
 interests:
   - Formal Methods
-  - Cyber Physical System
+  - Cyber-Physical Systems
   - Systems and Control Theory
   - Mathematical Optimization
 
