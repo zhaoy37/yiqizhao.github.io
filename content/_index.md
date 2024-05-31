@@ -140,7 +140,7 @@ sections:
           url: ''
         - certificate_url:
           date_end: ''
-          date_start: '2023-05-30'
+          date_start: '2024-05-30'
           description:
           icon:
           organization: 15th ACM/IEEE International Conference on Cyber-Physical Systems
