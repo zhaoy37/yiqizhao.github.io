@@ -137,7 +137,16 @@ sections:
           organization: Viterbi School of Engineering
           organization_url:
           title: Viterbi School of Engineering Fellowship
-          url:
+          url: ''
+        - certificate_url:
+          date_end: ''
+          date_start: '2023-05'
+          description:
+          icon:
+          organization: 15th ACM/IEEE International Conference on Cyber-Physical Systems
+          organization_url:
+          title: ICCPS Best Paper Award Finalist
+          url: ''
     design:
       columns: '2'
   - block: contact
