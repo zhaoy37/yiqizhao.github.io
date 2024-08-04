@@ -112,7 +112,7 @@ sections:
       title: Personal Interests and Miscellaneous
       subtitle:
       text: 
-        1. I am a fan of Mordern and Contemporary Chinese Literature, especially the work of misty poets and avant-garde fictionists.
+        1. I am a fan of Mordern and Contemporary Chinese Literature, especially the work of misty poets and avant-garde fictionists. [Read my poems](https://docs.google.com/document/d/1BjEbk9-IpgDqeMmF_poPgnYBG12GCWHJjG0eCIngikE/edit).
 
         2. I am a fan of road cycling, hiking, and cross-country. I espeically enjoy riding along the Ballona Creek during sunset.
         
