@@ -113,7 +113,9 @@ sections:
       subtitle:
       text: 
         1. I am a fan of Mordern and Contemporary Chinese Literature, especially the work of misty poets and avant-garde fictionists.
-        2. I am a fan of road cycling, hiking, and cross-country. I espeically enjoy riding along the Ballona Creek during sunset with [Junjie](https://jay-ye.github.io/).
+
+        2. I am a fan of road cycling, hiking, and cross-country. I espeically enjoy riding along the Ballona Creek during sunset.
+        
         3. We organize a reading group on [Formal Methods](https://self.shiroha.info/fm_seminar.html).
       design:
       # See Page Builder docs for all section customization options.
