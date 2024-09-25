@@ -106,21 +106,6 @@ sections:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
-  - block: markdown
-    id: interests
-    content:
-      title: Personal Interests and Miscellaneous
-      subtitle:
-      text: 
-        1. I am a fan of Mordern and Contemporary Chinese Literature. [Read my poems](https://docs.google.com/document/d/1BjEbk9-IpgDqeMmF_poPgnYBG12GCWHJjG0eCIngikE/edit).
-
-        2. I am a fan of road cycling, hiking, and cross-country. I espeically enjoy riding along the Ballona Creek during sunset.
-        
-        3. We organize a reading group on [Formal Methods for Control and Autonomous Systems](https://self.shiroha.info/fm_seminar.html).
-      design:
-      # See Page Builder docs for all section customization options.
-      # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '2'
   - block: accomplishments
     id: awards
     content:

@@ -28,9 +28,6 @@ main:
   - name: Academic Services
     url: '#services'
     weight: 50
-  - name: Miscellaneous
-    url: '#interests'
-    weight: 50
   - name: Awards
     url: '#awards'
     weight: 50
