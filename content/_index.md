@@ -101,7 +101,7 @@ sections:
     content:
       title: Academic Services
       subtitle:
-      text: Reviewer for Computing, HSCC 2024 (Repeatability Evaluation), ACC 2024, VMCAI 2024, CDC 2024, ICLR 2025, AISTATS 2025
+      text: Reviewer for Computing, HSCC 2024 (Repeatability Evaluation), ACC 2024, VMCAI 2024, CDC 2024, ICLR 2025, AISTATS 2025, HSCC 2025, HSCC 2025 (Repeatability Evaluation)
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
